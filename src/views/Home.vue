@@ -6,6 +6,7 @@
       <li>home2</li>
       <li>home3</li> 
       <li>home4</li>
+      <li>home5</li>
     </ul>
   </div>
 </template>
